@@ -1,0 +1,2 @@
+DOCKER_REPO=oyuk/httpd
+DOCKER_TAG=ver1.1
